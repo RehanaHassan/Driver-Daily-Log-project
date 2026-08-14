@@ -172,7 +172,14 @@ export default function App() {
             <span className="line" />
           </div>
           {data.logs.map((segments, i) => (
-            <LogSheet key={i} day={i + 1} segments={segments} />
+            <LogSheet
+              key={i}
+              day={i + 1}
+              totalDays={data.logs.length}
+              segments={segments}
+              tripDetails={form}
+              totalDistance={data.distance_miles}
+            />
           ))}
         </>
       )}
