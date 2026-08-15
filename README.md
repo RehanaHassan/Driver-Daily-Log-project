@@ -52,3 +52,6 @@ Runs on http://localhost:5173
 { "current": "Chicago, IL", "pickup": "Indianapolis, IN", "dropoff": "Dallas, TX", "cycle_used": 10 }
 ```
 Returns distance, total trip hours, route geometry, markers, and per-day log segments.
+
+Explaination Part 1
+<!-- Uploading "5022683f5c8b4096b33b852bbffb930d.mp4"... -->
