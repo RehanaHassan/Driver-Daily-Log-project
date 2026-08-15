@@ -55,6 +55,7 @@ Returns distance, total trip hours, route geometry, markers, and per-day log seg
 
 Explaination Part 1
 https://www.loom.com/share/5022683f5c8b4096b33b852bbffb930d
+
 Explaination Part 2
 https://www.loom.com/share/faaf38330d1c4b5dae7863fc7e4a70b6
 
